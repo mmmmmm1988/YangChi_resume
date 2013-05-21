@@ -1,6 +1,8 @@
 Yang Chi
 ==============
 
+**[PDF version](https://github.com/yangchi/YangChi_resume/blob/master/YangChi_resume.pdf?raw=true)**
+
 **Address:** 226 Ludlow Ave Apt 11, Cincinnati, OH 45220
 
 **Email:** [yang@yangchi.me](mailto:yang@yangchi.me)
