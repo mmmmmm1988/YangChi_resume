@@ -54,7 +54,7 @@ On-going work. Designing a novel coding scheme for network-coded TCP to solve th
 
 ##OTHER EXPERIENCES:
 
-**Web Developer**, University of Cincinnati, 04/2012 – present: Implement E-Portfolio system, an online portfolio and assessment platform, for College of Engineering and Applied Sciences at University of Cincinnati using PHP and MySQL. This work was presented at 2013 NSF STEP Grantees Meeting.
+**Web Developer**, University of Cincinnati, 04/2012 – 06/2013: Implement E-Portfolio system, an online portfolio and assessment platform, for College of Engineering and Applied Sciences at University of Cincinnati using PHP and MySQL. This work was presented at 2013 NSF STEP Grantees Meeting.
 
 **Teaching Assistant**, University of Cincinnati, Spring 2010-2011: in Ad Hoc and Sensor Networks class.
 
