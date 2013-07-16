@@ -18,15 +18,15 @@ Yang Chi
 **09/2004 - 06/2008**: B.S. in Network Engineering (CS equivalent), Chongqing University
 
 ##SKILLS
-Major Languages and skills: C, C++, Python, PHP, LaTeX.
+Everyday Languages: C, C++, Python, PHP, LaTeX.
 
-Others used: HTML/CSS, MySQL, Shell, JavaScript, Java, JSP, Ruby.
+Also know: HTML/CSS, MySQL, Shell, JavaScript, Java, JSP, Ruby.
 
-4 years research in Network Coding and Multi-hop Wireless Networks.
+Experience: Linux/Unix programming environment, protocol stack in Linux kernel, Network Simulation (ns-3), Virtualization, Cloud service (OpenShift, Heroku), OpenFlow and SDN (Mininet, POX, Floodlight)
 
 Strong background in Computer Networks and TCP/IP Protocol Stack.
 
-Solid knowledge in Computer Systems, Algorithms and Data Structure.
+Solid knowledge in Operating Systems, Distributed Computing, Algorithms and Data Structure.
 
 ##RESEARCH WORKS
 
@@ -50,11 +50,11 @@ Publication: *Network Locality in Wireless Networks, to appear at ACS/IEEE AICCS
 
 ###Decoding-Delay Sensitive Coding Scheme in TCP:
 
-On-going work. Designing a novel coding scheme for network-coded TCP to solve the decoding delay problem in such TCP implementations.
+Designing a novel coding scheme for network-coded TCP to solve the decoding delay problem in such TCP implementations.
 
 ##OTHER EXPERIENCES:
 
-**Web Developer**, University of Cincinnati, 04/2012 – 06/2013: Implement E-Portfolio system, an online portfolio and assessment platform, for College of Engineering and Applied Sciences at University of Cincinnati using PHP and MySQL. This work was presented at 2013 NSF STEP Grantees Meeting.
+**Web Developer**, University of Cincinnati, 04/2012 – 06/2013: Implement E-Portfolio system, an online portfolio and assessment platform, for College of Engineering and Applied Sciences at University of Cincinnati using PHP and MySQL. 
 
 **Teaching Assistant**, University of Cincinnati, Spring 2010-2011: in Ad Hoc and Sensor Networks class.
 
