@@ -22,7 +22,7 @@ Everyday Languages: C, C++, Python, PHP, LaTeX.
 
 Also know: HTML/CSS, MySQL, Shell, JavaScript, Java, JSP, Ruby.
 
-Experience: Linux/Unix programming environment, protocol stack in Linux kernel, Network Simulation (ns-3), Virtualization, Cloud service (OpenShift, Heroku), OpenFlow and SDN (Mininet, POX, Floodlight)
+Experience: Linux/Unix programming environment, protocol stack in Linux kernel, Network Simulation (ns-3), Virtualization, Cloud service (OpenShift, Heroku), OpenFlow and SDN (Mininet, POX)
 
 Strong background in Computer Networks and TCP/IP Protocol Stack.
 
