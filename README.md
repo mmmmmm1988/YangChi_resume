@@ -40,7 +40,7 @@ Publication: *Murco: An Opportunistic Network Coding Framework in Multi-Radio Ne
 
 Propose and design a new routing metric ETOX and a hybrid routing protocol HyCare for network coding capable networks. ETOX consider both coding opportunities and wireless channel quality. HyCare has both link-state routing and reverse forwarding functions. Fully implemented in ns-3 with C++. Achieve around 100% throughput gain compared to classical routing protocols with network coding in wireless mesh network backbone.
 
-Publication: *HyCare: Hybrid Coding-Aware Routing with ETOX Metric in Multi-hop Wireless Networks, submitted to IEEE MASS 2013, first author*
+Publication: *HyCare: Hybrid Coding-Aware Routing with ETOX Metric in Multi-hop Wireless Networks, to appear at IEEE MASS 2013, first author*
 
 ###Network Locality in Wireless Networks:
 
