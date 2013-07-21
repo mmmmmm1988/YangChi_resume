@@ -46,7 +46,7 @@ Publication: *HyCare: Hybrid Coding-Aware Routing with ETOX Metric in Multi-hop 
 
 This is the first validation of network locality in both WLAN and wireless mesh networks. Created packet parser in Python to analyze more than 1.3 billion packets (more than 130GB of data) collected from both real network traces and simulations. Examined 4 common network locality characteristics with 5 different routing schemes in multi-hop wireless networks.
 
-Publication: *Network Locality in Wireless Networks, to appear at ACS/IEEE AICCSA 2013, first author*
+Publication: *Network Locality in Wireless Networks, ACS/IEEE AICCSA 2013, first author*
 
 ###Decoding-Delay Sensitive Coding Scheme in TCP:
 
