@@ -22,7 +22,7 @@ Everyday Languages: C, C++, Python, PHP, LaTeX.
 
 Also know: HTML/CSS, MySQL, Shell, JavaScript, Java, JSP, Ruby.
 
-Experience: Linux/Unix programming environment, protocol stack in Linux kernel, Network Simulation (ns-3), Virtualization, Cloud service (OpenShift, Heroku), OpenFlow and SDN (Mininet, POX)
+Experience: Linux/Unix programming environment, Protocol stack in Linux kernel, Network Simulation (ns-3), Virtualization, OpenFlow and SDN (Mininet, POX), Cloud and Saas Configuration and Deployment (OpenShift and Heroku)
 
 Strong background in Computer Networks and TCP/IP Protocol Stack.
 
@@ -32,11 +32,17 @@ Solid knowledge in Operating Systems, Distributed Computing, Algorithms and Data
 
 ###Network Coding in Multi-Radio Networks: 
 
+**Source code of Yanci, in C++, my implementation of COPE: [https://github.com/yangchi/ns3-yanci](https://github.com/yangchi/ns3-yanci)**
+
+**Source code Murco in C++: [https://github.com/yangchi/Murco](https://github.com/yangchi/Murco)**
+
 Design and implement an opportunistic and independent 2.5 layer protocol for network coding in multi-radio networks. First distributed and practical solution to this problem. Fully implemented in ns-3 with C++. Throughput gain in some cases can be 10%. Latency gain around 50% is also achieved.
 
 Publication: *Murco: An Opportunistic Network Coding Framework in Multi-Radio Networks, IEEE ICC 2012, first author*
 
 ###Practical Coding-Aware Routing Protocols:
+
+**Source code in C++: [https://github.com/yangchi/ns3-ETOX](https://github.com/yangchi/ns3-ETOX)**
 
 Propose and design a new routing metric ETOX and a hybrid routing protocol HyCare for network coding capable networks. ETOX consider both coding opportunities and wireless channel quality. HyCare has both link-state routing and reverse forwarding functions. Fully implemented in ns-3 with C++. Achieve around 100% throughput gain compared to classical routing protocols with network coding in wireless mesh network backbone.
 
@@ -44,17 +50,23 @@ Publication: *HyCare: Hybrid Coding-Aware Routing with ETOX Metric in Multi-hop 
 
 ###Network Locality in Wireless Networks:
 
-This is the first validation of network locality in both WLAN and wireless mesh networks. Created packet parser in Python to analyze more than 1.3 billion packets (more than 130GB of data) collected from both real network traces and simulations. Examined 4 common network locality characteristics with 5 different routing schemes in multi-hop wireless networks.
+**Source code in Python: [https://bitbucket.org/yangchi/trace_parser](https://bitbucket.org/yangchi/trace_parser)**
+
+This is the first validation of network locality in both WLAN and wireless mesh networks. Created packet parser in **Python** to analyze more than 1.3 billion packets (more than 130GB of data) collected from both real network traces and simulations. Examined 4 common network locality characteristics with 5 different routing schemes in multi-hop wireless networks.
 
 Publication: *Network Locality in Wireless Networks, ACS/IEEE AICCSA 2013, first author*
 
 ###Decoding-Delay Sensitive Coding Scheme in TCP:
 
-Designing a novel coding scheme for network-coded TCP to solve the decoding delay problem in such TCP implementations.
+On-going project. Designing a novel coding scheme for network-coded TCP to solve the decoding delay problem in such TCP implementations. This one will be implemented in Linux kernel 3.6 and the experiment will be carried on in a Raspberry-pi based wireless testbed.
 
 ##OTHER EXPERIENCES:
 
-**Web Developer**, University of Cincinnati, 04/2012 – 06/2013: Implement E-Portfolio system, an online portfolio and assessment platform, for College of Engineering and Applied Sciences at University of Cincinnati using PHP and MySQL. 
+**Web Developer**, University of Cincinnati, 04/2012 – 06/2013: 
+
+**Source code, mostly in PHP: [https://bitbucket.org/yangchi/e-portfolio](https://bitbucket.org/yangchi/e-portfolio)**
+
+Implement E-Portfolio system, an online portfolio and assessment platform, for College of Engineering and Applied Sciences at University of Cincinnati using **PHP** and **MySQL**.
 
 **Teaching Assistant**, University of Cincinnati, Spring 2010-2011: in Ad Hoc and Sensor Networks class.
 
