@@ -36,7 +36,7 @@ Solid knowledge in Operating Systems, Distributed Computing, Algorithms and Data
 
 **Source code Murco in C++: [https://github.com/yangchi/Murco](https://github.com/yangchi/Murco)**
 
-Design and implement an opportunistic and independent 2.5 layer protocol for network coding in multi-radio networks. First distributed and practical solution to this problem. Fully implemented in ns-3 with C++. Throughput gain in some cases can be 10%. Latency gain around 50% is also achieved.
+Design and implement an opportunistic and independent 2.5 layer protocol for network coding in multi-radio networks. First distributed and practical solution to this problem. Throughput gain in some cases can be 10%. Latency gain around 50% is also achieved.
 
 Publication: *Murco: An Opportunistic Network Coding Framework in Multi-Radio Networks, IEEE ICC 2012, first author*
 
@@ -44,7 +44,7 @@ Publication: *Murco: An Opportunistic Network Coding Framework in Multi-Radio Ne
 
 **Source code in C++: [https://github.com/yangchi/ns3-ETOX](https://github.com/yangchi/ns3-ETOX)**
 
-Propose and design a new routing metric ETOX and a hybrid routing protocol HyCare for network coding capable networks. ETOX consider both coding opportunities and wireless channel quality. HyCare has both link-state routing and reverse forwarding functions. Fully implemented in ns-3 with C++. Achieve around 100% throughput gain compared to classical routing protocols with network coding in wireless mesh network backbone.
+Propose and design a new routing metric ETOX and a hybrid routing protocol HyCare for network coding capable networks. ETOX consider both coding opportunities and wireless channel quality. HyCare has both link-state routing and reverse forwarding functions. Achieve around 100% throughput gain compared to classical routing protocols with network coding in wireless mesh network backbone.
 
 Publication: *HyCare: Hybrid Coding-Aware Routing with ETOX Metric in Multi-hop Wireless Networks, to appear at IEEE MASS 2013, first author*
 
@@ -66,4 +66,4 @@ On-going project. Designing a novel coding scheme for network-coded TCP to solve
 
 **Teaching Assistant**, University of Cincinnati, Spring 2010-2011: in Ad Hoc and Sensor Networks class.
 
-**Internship**, Institute of Computing Technology, Chinese Academy of Sciences, Summer 2007: Tested functions and reliability of a SOA framework with Java.
+**Internship**, Institute of Computing Technology, Chinese Academy of Sciences, Summer 2007: Tested functions and reliability of a SOA framework with **Java**.
