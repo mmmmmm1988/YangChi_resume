@@ -13,7 +13,9 @@ Yang Chi
 
 ##EDUCATION
 
-**09/2008 - Present**: Ph.D. in Computer Science & Engineering, University of Cincinnati, GPA: 3.85, Dissertation Topic: Effective Use of Network Coding in Multi-hop Wireless Networks
+**09/2008 - Present**: Ph.D. in Computer Science & Engineering, University of Cincinnati 
+
+GPA: 3.85, Dissertation Topic: Effective Use of Network Coding in Multi-hop Wireless Networks
 
 **09/2004 - 06/2008**: B.S. in Network Engineering (CS equivalent), Chongqing University
 
