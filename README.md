@@ -11,7 +11,7 @@ Yang Chi, Software Engineer
 
 **Github:** [https://github.com/yangchi](https://github.com/yangchi)
 
-##Experience
+##EXPERIENCE
 
 **12/2013 - Present**: Software Engineer, Cisco Systems
 
