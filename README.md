@@ -1,15 +1,19 @@
-Yang Chi
+Yang Chi, Software Engineer
 ==============
 
 **[PDF version](https://github.com/yangchi/YangChi_resume/blob/master/YangChi_resume.pdf?raw=true)**
 
-**Address:** 226 Ludlow Ave Apt 11, Cincinnati, OH 45220
+**Address:** 350 Elan Village Ln #111, San Jose, CA 95134
 
 **Email:** [yang@yangchi.me](mailto:yang@yangchi.me)
 
 **Cellphone:** 513-679-0772
 
 **Github:** [https://github.com/yangchi](https://github.com/yangchi)
+
+##Experience
+
+**12/2013 - Present**: Software Engineer, Cisco Systems
 
 ##EDUCATION
 
