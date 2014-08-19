@@ -15,6 +15,16 @@ Yang Chi, Software Engineer
 
 **12/2013 - Present**: Software Engineer, Cisco Systems
 
+I work in the Core Software Group (CSG) at Cisco. Specifically I work on network policy infra across many platforms on Cisco IOS systems. Some interesting works that I contributed:
+
+(1) Code convergence of the network policy infra between two major branches of Cisco IOS systems.
+
+(2) WPM (Wireless Provisioning Module): A event-driven module sits in-between wireless controller and policy infra to help applying dynamic policies onto wireless entities like AP, radio and clients.
+
+(3) Non-unique class ID in the policy infra to support non-unique priority levels in OpenFlow.
+
+(4) Network policy statistics: This is a small one. Just used an AVL tree to count and update policy types and client types, for the speed.
+
 ##EDUCATION
 
 **09/2008 - Present**: Ph.D. in Computer Science & Engineering, University of Cincinnati 
@@ -24,17 +34,17 @@ GPA: 3.85, Dissertation Topic: Effective Use of Network Coding in Multi-hop Wire
 **09/2004 - 06/2008**: B.S. in Network Engineering (CS equivalent), Chongqing University
 
 ##SKILLS
-Everyday Languages: C, C++, Python, PHP, LaTeX.
+Everyday Languages: C
 
-Also know: HTML/CSS, MySQL, Shell, JavaScript, Java, JSP, Ruby.
+Not everyday languages: C++, Python, JavaScript, PHP, Java, Go, LaTeX.
 
-Experience: Linux/Unix programming environment, Protocol stack in Linux kernel, Network Simulation (ns-3), Virtualization, OpenFlow and SDN (Mininet, POX), Cloud and Saas Configuration and Deployment (OpenShift and Heroku)
+Also touched (a.k.a this is where I throw keywords): Linux/Unix programming (I literally touched both), Redis, Tornado, RESTful API, SQL, Ruby, OpenFlow and SDN, A little bit Android, A little TDD, A little Agile.
 
 Strong background in Computer Networks and TCP/IP Protocol Stack.
 
 Solid knowledge in Operating Systems, Distributed Computing, Algorithms and Data Structure.
 
-##RESEARCH WORKS
+##PAST RESEARCH WORKS
 
 ###Network Coding in Multi-Radio Networks: 
 
@@ -66,7 +76,11 @@ Publication: *Network Locality in Wireless Networks, ACS/IEEE AICCSA 2013, first
 
 On-going project. Designing a novel coding scheme for network-coded TCP to solve the decoding delay problem in such TCP implementations. This one will be implemented in Linux kernel 3.6 and the experiment will be carried on in a Raspberry-pi based wireless testbed.
 
+Paper: [TCP-Forward: Fast and Reliable TCP Variant for Wireless Networks](http://arxiv.org/abs/1408.2626)
+
 ##OTHER EXPERIENCES:
+
+**A real-time server**, Personal project for fun. My friend was writing an online game. I wrote the back-end for him with Python, Tornado and Redis.
 
 **Web Developer**, University of Cincinnati, 04/2012 – 06/2013: Implement E-Portfolio system, an online portfolio and assessment platform, for College of Engineering and Applied Sciences at University of Cincinnati using **PHP** and **MySQL**. **Source code, mostly in PHP: [https://bitbucket.org/yangchi/e-portfolio](https://bitbucket.org/yangchi/e-portfolio)**
 

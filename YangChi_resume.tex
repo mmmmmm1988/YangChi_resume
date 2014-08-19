@@ -1,15 +1,17 @@
 \documentclass[line]{res}
 \usepackage{hyperref}
 
-\addtolength{\oddsidemargin}{-.5in}
-\addtolength{\evensidemargin}{-.5in}
-\addtolength{\textwidth}{.75in}
+%\addtolength{\oddsidemargin}{-.5in}
+%\addtolength{\evensidemargin}{-.5in}
+%\addtolength{\textwidth}{.75in}
 
-\addtolength{\topmargin}{-.5in}
+%\addtolength{\topmargin}{-.5in}
 
-\setlength{\textheight}{10.5in} % increase text height to fit on 1-page 
+%\setlength{\textheight}{9.5in} 
 
 \usepackage{hyperref}
+
+\hyphenation{Systems RESTful}
 
 \begin{document}
 \name{Yang Chi}
@@ -19,7 +21,14 @@
 \begin{resume}
 	\section{EXPERIENCE}
 	\begin{description}
-		\item[12/2013 - Present:] Software Engineer, Cisco Systems
+		\item[12/2013 - Present:] Software Engineer, Cisco Systems \\
+		I work in the Core Software Group (CSG) at Cisco. Specifically I work on network policy infra across many platforms on Cisco IOS systems. Some interesting works that I contributed:
+            \begin{itemize}
+            \item Code convergence of the network policy infra between two major branches of Cisco IOS systems.
+            \item WPM (Wireless Provisioning Module): A event-driven module sits in-between wireless controller and policy infra to help applying dynamic policies onto wireless entities like AP, radio and clients.
+            \item Non-unique class ID in the policy infra to support non-unique priority levels in OpenFlow.
+            \item Network policy statistics: This is a small one. Just used an AVL tree to count and update policy types and client types, for the speed.
+            \end{itemize}
 	\end{description}
 	\section{EDUCATION}
 	\begin{description}
@@ -30,14 +39,14 @@
 	
 	\section{SKILLS}
 	\begin{itemize}
-		\item Everyday Languages: C, C++, Python, PHP, LaTeX.
-		\item Also know: HTML, CSS, MySQL, Shell, JavaScript, Java, JSP, Ruby.
-		\item Experience: Linux/Unix programming environment, Protocol stack in Linux kernel, Network Simulation (ns-3), Virtualization, OpenFlow and SDN (Mininet, POX), Cloud and Saas Configuration and Deployment (OpenShift and Heroku)
+		\item Everyday Languages: C
+		\item Not everyday languages: C++, Python, PHP, SQL, JavaScript, Java, Go, LaTeX.
+		\item Experience: Linux/Unix programming, Network Simulation (ns-3), OpenFlow and SDN (Mininet, POX), RESTful API, a little TDD, a little Agile, and a little Android
 		\item Strong background in Computer Networks and TCP/IP Protocol Stack.
 		\item Solid knowledge in Operating Systems, Distributed Computing, Algorithms and Data Structure.
 	\end{itemize}
 
-	\section{RESEARCH WORKS}
+	\section{PAST RESEARCH WORKS}
 	\begin{description}
 		\item[Network Coding in Multi-Radio Networks:] 
 			Design and implement an opportunistic and independent 2.5 layer protocol for network coding in multi-radio networks. First distributed and practical solution to this problem. Throughput gain in some cases can be 10\%. Latency gain around 50\% is also achieved. \\
@@ -53,11 +62,13 @@
 			\textbf{Source code in Python: \url{https://bitbucket.org/yangchi/trace_parser} } \\
 			Publication: \emph{Network Locality in Wireless Networks, ACS/IEEE AICCSA 2013, first author}
 		\item [Decoding-Delay Sensitive Coding Scheme in TCP:]
-			On-going project. Designing a novel coding scheme for network-coded TCP to solve the decoding delay problem in such TCP implementations. This one will be implemented in Linux kernel 3.6 and the experiment will be carried on in a Raspberry-pi based wireless testbed.
+			On-going project. Designing a novel coding scheme for network-coded TCP to solve the decoding delay problem in such TCP implementations. This one will be implemented in Linux kernel 3.6 and the experiment will be carried on in a Raspberry-pi based wireless testbed. \\
+			\textbf{Paper: \href{http://arxiv.org/abs/1408.2626}{TCP-Forward: Fast and Reliable TCP Variant for Wireless Networks  \\ (http://arxiv.org/abs/1408.2626)}}
 	\end{description}
 	
-	\section{OTHER EXPERIENCE}
+	\section{OTHER WORKS}
 	\begin{description}
+		\item[Real-time Server] Personal project for fun. My friend was writing an online game. I wrote the back-end for him with Python, Tornado and Redis.
 		\item[Web Developer] University of Cincinnati, 04/2012 - 06/2013: Design and implement E-Portfolio system, an online portfolio and assessment platform, for College of Engineering and Applied Sciences at University of Cincinnati using \textbf{PHP} and \textbf{MySQL} as well as \textbf{HTML, CSS and JavaScript}. \\
 		\textbf{Source code, mostly in PHP: \url{https://bitbucket.org/yangchi/e-portfolio} }
 		\item[Teaching Assistant] University of Cincinnati, Spring 2010-2011: Ad Hoc and Sensor Networks class.
