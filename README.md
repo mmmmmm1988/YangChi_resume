@@ -1,7 +1,7 @@
 Yang Chi, Software Engineer
 ==============
 
-**[PDF version](https://github.com/yangchi/YangChi_resume/blob/master/YangChi_resume.pdf?raw=true)**
+**[PDF version](https://github.com/yangchi/YangChi_resume/blob/master/YangChi_resume.pdf?raw=true)  |  [One Page PDF version](https://github.com/yangchi/YangChi_resume/blob/master/YangChi_resume_shorter.pdf?raw=true)**
 
 **Address:** 350 Elan Village Ln #111, San Jose, CA 95134
 
