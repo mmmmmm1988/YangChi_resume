@@ -27,7 +27,7 @@ I work in the Core Software Group (CSG) at Cisco. Specifically I work on network
 
 ##EDUCATION
 
-**09/2008 - Present**: Ph.D. in Computer Science & Engineering, University of Cincinnati 
+**09/2008 - 13/2013**: Ph.D. in Computer Science & Engineering, University of Cincinnati 
 
 GPA: 3.85, Dissertation Topic: Effective Use of Network Coding in Multi-hop Wireless Networks
 
