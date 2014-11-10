@@ -36,7 +36,9 @@ GPA: 3.85, Dissertation Topic: Effective Use of Network Coding in Multi-hop Wire
 ##SKILLS
 Everyday Languages: C
 
-Other languages: C++, Python, JavaScript, PHP, Java, Go, LaTeX.
+Almost everyday languages: C++, Python, Java
+
+Other languages: JavaScript, PHP, Go, LaTeX.
 
 Also touched (a.k.a this is where I throw keywords): Linux/Unix programming (I literally touched both), Redis, Tornado, RESTful API, SQL, OpenFlow and SDN, Web Development
 
