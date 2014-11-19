@@ -3,7 +3,7 @@ Yang Chi, Software Engineer
 
 **[PDF version](https://github.com/yangchi/YangChi_resume/blob/master/YangChi_resume.pdf?raw=true)  |  [One Page PDF version](https://github.com/yangchi/YangChi_resume/blob/master/YangChi_resume_shorter.pdf?raw=true)**
 
-**Address:** 350 Elan Village Ln #111, San Jose, CA 95134
+**Address:** 36681 Bishop St, Newark, CA 94560
 
 **Email:** [yang@yangchi.me](mailto:yang@yangchi.me)
 
@@ -21,9 +21,11 @@ I work in the Core Software Group (CSG) at Cisco. Specifically I work on network
 
 (2) WPM (Wireless Provisioning Module): A event-driven module sits in-between wireless controller and policy infra to help applying dynamic policies onto wireless entities like AP, radio and clients.
 
-(3) Non-unique class ID in the policy infra to support non-unique priority levels in OpenFlow.
+(3) Remote Class lookup API: provide an API for remote QoS class lookup in Cisco IOS.
 
-(4) Network policy statistics: This is a small one. Just used an AVL tree to count and update policy types and client types, for the speed.
+(4) Non-unique class ID in the policy infra to support non-unique priority levels in OpenFlow.
+
+(5) Network policy statistics: This is a small one. Just used an AVL tree to count and update policy types and client types, for the speed.
 
 ##EDUCATION
 
