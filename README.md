@@ -78,7 +78,7 @@ Publication: *Network Locality in Wireless Networks, ACS/IEEE AICCSA 2013, first
 
 ###Decoding-Delay Sensitive Coding Scheme in TCP:
 
-Design a novel coding scheme for network-coded TCP to solve the decoding delay problem in such TCP implementations. 
+Design a novel coding scheme for network-coded TCP to solve the decoding delay problem in such TCP implementations. This scheme achieves constant first-packet decoding time in regardless of the number of raw packets in an encoded packet, about 10% throughput increase with various packet loss ratio, a Constant first-packet decoding delay in regardless of number of packets in an encoded packet. 10\% throughput increase and even more significant end-to-end delay reduce compared to previous similar algorithm.nd significant reduce on end-to-end delay compared to previous similar congestion control algorithm.
 
 Paper: [TCP-Forward: Fast and Reliable TCP Variant for Wireless Networks](http://arxiv.org/abs/1408.2626)
 
