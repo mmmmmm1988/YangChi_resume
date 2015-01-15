@@ -78,7 +78,7 @@ Publication: *Network Locality in Wireless Networks, ACS/IEEE AICCSA 2013, first
 
 ###Decoding-Delay Sensitive Coding Scheme in TCP:
 
-On-going project. Designing a novel coding scheme for network-coded TCP to solve the decoding delay problem in such TCP implementations. This one will be implemented in Linux kernel 3.6 and the experiment will be carried on in a Raspberry-pi based wireless testbed.
+Design a novel coding scheme for network-coded TCP to solve the decoding delay problem in such TCP implementations. 
 
 Paper: [TCP-Forward: Fast and Reliable TCP Variant for Wireless Networks](http://arxiv.org/abs/1408.2626)
 
