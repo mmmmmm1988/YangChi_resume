@@ -38,15 +38,11 @@ GPA: 3.85, Dissertation Topic: Effective Use of Network Coding in Multi-hop Wire
 ##SKILLS
 Programming Languages: C > C++ = Python > Java > Go = PHP > JavaScript
 
-Non-linguistics: SQL, HTML, CSS
-
-Also touched (a.k.a this is where I throw keywords): Linux/Unix programming (I literally touched both), Redis, Tornado, RESTful API, SQL, OpenFlow and SDN, Web Development
+Also touched (a.k.a this is where I throw keywords): Linux/Unix programming (I literally touched both), Redis, Tornado, RESTful API, OpenFlow and SDN, Web Development
 
 Strong background in Computer Networks and TCP/IP Protocol Stack.
 
 Solid knowledge in Operating Systems, Distributed Computing, Algorithms and Data Structure.
-
-Fundamental knowledge in databases (SQL and NoSQL)
 
 ##PAST RESEARCH WORKS
 
