@@ -13,19 +13,9 @@ Yang Chi, Software Engineer
 
 ##EXPERIENCE
 
-**12/2013 - Present**: Software Engineer, Cisco Systems
+**12/2013 - 03/2015**: Software Engineer, Cisco Systems
 
-I work in the Core Software Group (CSG) at Cisco. Specifically I work on network policy infra across many platforms on Cisco IOS systems. Some interesting works that I contributed:
-
-(1) Code convergence of the network policy infra between two major branches of Cisco IOS systems.
-
-(2) WPM (Wireless Provisioning Module): A event-driven module sits in-between wireless controller and policy infra to help applying dynamic policies onto wireless entities like AP, radio and clients.
-
-(3) Remote Class lookup API: provide an API for remote QoS class lookup in Cisco IOS.
-
-(4) Non-unique class ID in the policy infra to support non-unique priority levels in OpenFlow.
-
-(5) Network policy statistics: This is a small one. Just used an AVL tree to count and update policy types and client types, for the speed.
+I work on network policy infra across many platforms on Cisco IOS systems. 
 
 ##EDUCATION
 
